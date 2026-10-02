@@ -1,7 +1,7 @@
 CREATE DATABASE used_car_sales;
 USE used_car_sales;
 
--- Cars Table
+-- Cars Table 
 CREATE TABLE cars (
     car_id INT PRIMARY KEY,
     brand VARCHAR(50),
